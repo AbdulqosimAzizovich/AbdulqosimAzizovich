@@ -37,13 +37,13 @@
 
 <p align="center">
   <a href="https://github.com/AbdulqosimAzizovich">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117" alt="AbdulqosimAzizovich's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AbdulqosimAzizovich">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulqosimAzizovich&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulqosimAzizovich&theme=radical" alt="AbdulqosimAzizovich's GitHub Contribution"/>
   </a>
 </p>
 
