@@ -1,4 +1,4 @@
-<img src="./assets/github-header-image.png" />
+
 
 <h3 align="left" style="color: red;">
   Skills
