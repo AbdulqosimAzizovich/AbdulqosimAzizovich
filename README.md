@@ -1,6 +1,6 @@
 
 
-<h3 align="left" style="color: red;">
+<!-- <h3 align="left" style="color: red;">
   Skills
 </h3>
 
@@ -19,36 +19,34 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
-</div>
+</div> -->
 
-####
 
-<div align="center" style="display:flex; align-items:center;">
+
+<!-- <div align="center" style="display:flex; align-items:center;">
   <img src="https://github-stats-alpha.vercel.app/api?username=AbdulqosimAzizovich&cc=000&tc=fff&ic=fff&bc=000" align="center" style="width:720px;"/>
-</div>
+</div> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=AbulqosimAzizovich&show_icons=true&theme=dark" align="center"/> -->
 <!-- #### -->
 <!--   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="display: flex; justify-content: center; width: 100%; margin-bottom:25px; top:25px;"> -->
 <!--   <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" style="display: flex; justify-content: center; width: 100%; margin-bottom:25px; top:25px;"> -->
 
+<!-- <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AbdulqosimAzizovich">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117" alt="AbdulqosimAzizovich's GitHub streak"/>
   </a>
-</p>
-
----
+</p> -->
 
 ### 🏆 GitHub Trophies
 
-<div align="center" style="display:flex; align-items:center;">
+<!-- <div align="center" style="display:flex; align-items:center;"> -->
   <img src="https://github-trophies.vercel.app/?username=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117"/>
   <!-- <a href="https://github.com/alsiam"><img alt="Abdulqosim's" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdulqosimAzizovich&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-</div>
+<!-- </div> -->
 
 
 
