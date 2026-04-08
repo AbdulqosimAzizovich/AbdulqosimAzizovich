@@ -47,7 +47,7 @@
 
 <div align="center" style="display:flex; align-items:center;">
   <img src="https://github-trophies.vercel.app/?username=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117"/>
-  <a href="https://github.com/alsiam"><img alt="Abdulqosim's" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdulqosimAzizovich&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <!-- <a href="https://github.com/alsiam"><img alt="Abdulqosim's" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdulqosimAzizovich&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
 </div>
 ---
 
