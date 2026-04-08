@@ -42,13 +42,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdulqosimAzizovich">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulqosimAzizovich&theme=radical" alt="AbdulqosimAzizovich's GitHub Contribution"/>
-  </a>
-</p>
+  ![](https://github-trophies.vercel.app/?username=AbdulqosimAzizovich)
+</p> 
 
 <a> 
-    <a href="https://github.com/AbdulqosimAzizovich"><img alt="AbdulqosimAzizovich's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AbdulqosimAzizovich&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <!-- <a href="https://github.com/AbdulqosimAzizovich"><img alt="AbdulqosimAzizovich's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AbdulqosimAzizovich&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
   <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AbdulqosimAzizovich&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
