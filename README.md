@@ -46,7 +46,8 @@
 ### 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=AbdulqosimAzizovich)
-
+#!11
+<img src="https://github-trophies.vercel.app/?username=AbdulqosimAzizovich"/>
 
 ---
 
