@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="[https://github-trophies.vercel.app/?username=AbdulqosimAzizovich](https://github-trophies.vercel.app/?username=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117)"/>
+  <img src="https://github-trophies.vercel.app/?username=AbdulqosimAzizovich&theme=radical&border=7F3FBF&background=0D1117"/>
 </div>
 ---
 
